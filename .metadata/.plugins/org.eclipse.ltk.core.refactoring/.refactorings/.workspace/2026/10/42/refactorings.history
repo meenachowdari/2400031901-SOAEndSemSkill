@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy Project &apos;orderservice1&apos;" description="Copy Project &apos;orderservice1&apos;" destination="C:/SOA/labInSem" element="/orderservice1" flags="7" id="org.eclipse.ltk.core.refactoring.copyproject.resource" name="orderservice2" stamp="1791890801866"/>
+</session>
